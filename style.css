@@ -18,3 +18,9 @@ body {
 }
 
 /* about end */
+
+
+/* project */
+.col {
+  flex-wrap: wrap;
+}
